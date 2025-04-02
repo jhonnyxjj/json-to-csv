@@ -1,0 +1,5004 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "name": "Tanner Terry",
+        "grades": [
+          7.3,
+          7.9,
+          6.2,
+          6.7
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Everett Bush",
+        "grades": [
+          8.3,
+          4.5,
+          7.3,
+          0.8
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Mason Cherry",
+        "grades": [
+          6.8,
+          5.5,
+          3.5,
+          6.3
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Michael Odonnell",
+        "grades": [
+          3.1,
+          4.5,
+          8.4,
+          9.1
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Jacqueline Dotson",
+        "grades": [
+          6.9,
+          3.9,
+          6.8,
+          8.1
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Bradshaw Carlson",
+        "grades": [
+          8.1,
+          9.8,
+          7.7,
+          7.9
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Page Bartlett",
+        "grades": [
+          6.3,
+          5.1,
+          7.9,
+          2
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Ollie Soto",
+        "grades": [
+          0.6,
+          6.5,
+          9,
+          9.6
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Morgan Finch",
+        "grades": [
+          4.2,
+          9.7,
+          2.3,
+          4.6
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Dena Lara",
+        "grades": [
+          8.4,
+          1.5,
+          0.9,
+          2.2
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Glass Mcdonald",
+        "grades": [
+          8.1,
+          9,
+          0.6,
+          3.1
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Velazquez Lester",
+        "grades": [
+          0.8,
+          2.6,
+          4.9,
+          4.2
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Nona Bass",
+        "grades": [
+          1.5,
+          1.7,
+          4.6,
+          1.1
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Stafford Mcguire",
+        "grades": [
+          5.5,
+          9.5,
+          3.7,
+          7.9
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Sabrina Reese",
+        "grades": [
+          6.6,
+          6.8,
+          5.3,
+          4.8
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Jaclyn Jones",
+        "grades": [
+          4.2,
+          0.9,
+          1.8,
+          0.5
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Payne Casey",
+        "grades": [
+          8,
+          0.3,
+          5.9,
+          1.7
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Knox Mccray",
+        "grades": [
+          5.8,
+          5.9,
+          5.4,
+          6.4
+        ]
+      },
+      {
+        "id": 19,
+        "name": "Leola Maynard",
+        "grades": [
+          2.7,
+          8.4,
+          5.6,
+          9.5
+        ]
+      },
+      {
+        "id": 20,
+        "name": "Burnett Wall",
+        "grades": [
+          0.2,
+          3.4,
+          2.2,
+          2.3
+        ]
+      },
+      {
+        "id": 21,
+        "name": "Cabrera Bird",
+        "grades": [
+          4.1,
+          9.8,
+          7.7,
+          0.9
+        ]
+      },
+      {
+        "id": 22,
+        "name": "Rivera Hughes",
+        "grades": [
+          2.4,
+          0.5,
+          7.3,
+          9
+        ]
+      },
+      {
+        "id": 23,
+        "name": "Rocha Valentine",
+        "grades": [
+          9.9,
+          8,
+          0.9,
+          8.8
+        ]
+      },
+      {
+        "id": 24,
+        "name": "Lisa Walters",
+        "grades": [
+          7.6,
+          7.4,
+          8.3,
+          1.2
+        ]
+      },
+      {
+        "id": 25,
+        "name": "Foley Palmer",
+        "grades": [
+          7.4,
+          4.6,
+          7.1,
+          8.3
+        ]
+      },
+      {
+        "id": 26,
+        "name": "Mccall Calderon",
+        "grades": [
+          7.9,
+          4.5,
+          9.2,
+          5.2
+        ]
+      },
+      {
+        "id": 27,
+        "name": "Mayer Baker",
+        "grades": [
+          7.6,
+          7.6,
+          9.6,
+          5.5
+        ]
+      },
+      {
+        "id": 28,
+        "name": "Rowland Valdez",
+        "grades": [
+          8.8,
+          3.3,
+          5.8,
+          1.5
+        ]
+      },
+      {
+        "id": 29,
+        "name": "Maldonado Moore",
+        "grades": [
+          5.9,
+          5.3,
+          4.4,
+          4
+        ]
+      },
+      {
+        "id": 30,
+        "name": "George Woods",
+        "grades": [
+          4.4,
+          7.6,
+          3.1,
+          6.4
+        ]
+      },
+      {
+        "id": 31,
+        "name": "Nguyen Morrow",
+        "grades": [
+          5,
+          4.6,
+          9.8,
+          7.5
+        ]
+      },
+      {
+        "id": 32,
+        "name": "Angelia Berg",
+        "grades": [
+          1.1,
+          3.6,
+          3.3,
+          0.5
+        ]
+      },
+      {
+        "id": 33,
+        "name": "Velma Howe",
+        "grades": [
+          4.6,
+          4.1,
+          8.8,
+          8.4
+        ]
+      },
+      {
+        "id": 34,
+        "name": "Wiggins Nieves",
+        "grades": [
+          8.1,
+          6.3,
+          9.2,
+          9.1
+        ]
+      },
+      {
+        "id": 35,
+        "name": "Valenzuela Johns",
+        "grades": [
+          7.2,
+          6.5,
+          5.7,
+          5.1
+        ]
+      },
+      {
+        "id": 36,
+        "name": "Cleo Castaneda",
+        "grades": [
+          6.9,
+          0.6,
+          5,
+          9
+        ]
+      },
+      {
+        "id": 37,
+        "name": "Kemp Mccullough",
+        "grades": [
+          2.6,
+          4.8,
+          8,
+          1
+        ]
+      },
+      {
+        "id": 38,
+        "name": "Henderson Jensen",
+        "grades": [
+          0.5,
+          5.8,
+          8.9,
+          5.2
+        ]
+      },
+      {
+        "id": 39,
+        "name": "Parsons Romero",
+        "grades": [
+          4.4,
+          7.9,
+          7.1,
+          3.8
+        ]
+      },
+      {
+        "id": 40,
+        "name": "Juana Ward",
+        "grades": [
+          1.3,
+          9.9,
+          3.1,
+          5.3
+        ]
+      },
+      {
+        "id": 41,
+        "name": "Hall Burnett",
+        "grades": [
+          5.2,
+          4.1,
+          9.9,
+          7.3
+        ]
+      },
+      {
+        "id": 42,
+        "name": "Jane Crane",
+        "grades": [
+          2.6,
+          9.2,
+          9.6,
+          5.4
+        ]
+      },
+      {
+        "id": 43,
+        "name": "Petra Patton",
+        "grades": [
+          8.3,
+          8.8,
+          6.6,
+          6.5
+        ]
+      },
+      {
+        "id": 44,
+        "name": "Dalton Tyson",
+        "grades": [
+          5.1,
+          4.4,
+          3.6,
+          3.7
+        ]
+      },
+      {
+        "id": 45,
+        "name": "Lillian Holden",
+        "grades": [
+          8.2,
+          5.1,
+          0,
+          6.1
+        ]
+      },
+      {
+        "id": 46,
+        "name": "Gale Wilcox",
+        "grades": [
+          0.8,
+          2.4,
+          6.9,
+          6
+        ]
+      },
+      {
+        "id": 47,
+        "name": "Francis Russo",
+        "grades": [
+          7.2,
+          3.5,
+          10,
+          7.3
+        ]
+      },
+      {
+        "id": 48,
+        "name": "Gould Doyle",
+        "grades": [
+          9.4,
+          4.3,
+          7.3,
+          7.3
+        ]
+      },
+      {
+        "id": 49,
+        "name": "Jana Salazar",
+        "grades": [
+          4.5,
+          4.9,
+          7.6,
+          3.2
+        ]
+      },
+      {
+        "id": 50,
+        "name": "Laurel Farley",
+        "grades": [
+          9.5,
+          4.6,
+          6,
+          1.6
+        ]
+      },
+      {
+        "id": 51,
+        "name": "Allison Kelley",
+        "grades": [
+          2.3,
+          6.9,
+          1.2,
+          5.8
+        ]
+      },
+      {
+        "id": 52,
+        "name": "Knight Dillard",
+        "grades": [
+          3.5,
+          7.2,
+          5.7,
+          5.7
+        ]
+      },
+      {
+        "id": 53,
+        "name": "Malinda Copeland",
+        "grades": [
+          1,
+          4.1,
+          4.4,
+          2
+        ]
+      },
+      {
+        "id": 54,
+        "name": "Bentley Cook",
+        "grades": [
+          9.8,
+          9,
+          0.5,
+          6.6
+        ]
+      },
+      {
+        "id": 55,
+        "name": "Stevens Le",
+        "grades": [
+          2.3,
+          6.9,
+          9.1,
+          9.5
+        ]
+      },
+      {
+        "id": 56,
+        "name": "Kaitlin Tate",
+        "grades": [
+          9,
+          0.2,
+          5.1,
+          5.1
+        ]
+      },
+      {
+        "id": 57,
+        "name": "Doyle Holman",
+        "grades": [
+          0.1,
+          1.8,
+          6.6,
+          9.5
+        ]
+      },
+      {
+        "id": 58,
+        "name": "Osborne Townsend",
+        "grades": [
+          8.5,
+          1.3,
+          10,
+          7.7
+        ]
+      },
+      {
+        "id": 59,
+        "name": "Cleveland Ryan",
+        "grades": [
+          0.1,
+          6.4,
+          8.4,
+          6.4
+        ]
+      },
+      {
+        "id": 60,
+        "name": "Leann Wise",
+        "grades": [
+          1.2,
+          1.9,
+          4.2,
+          1
+        ]
+      },
+      {
+        "id": 61,
+        "name": "Velasquez Mooney",
+        "grades": [
+          0.2,
+          5.8,
+          7.6,
+          1.8
+        ]
+      },
+      {
+        "id": 62,
+        "name": "Debra Francis",
+        "grades": [
+          4.4,
+          6.3,
+          0.5,
+          1.6
+        ]
+      },
+      {
+        "id": 63,
+        "name": "Benita Santana",
+        "grades": [
+          1.8,
+          2.1,
+          6.7,
+          9
+        ]
+      },
+      {
+        "id": 64,
+        "name": "Randi Hebert",
+        "grades": [
+          7.8,
+          6.9,
+          3.7,
+          3.6
+        ]
+      },
+      {
+        "id": 65,
+        "name": "Leach Cash",
+        "grades": [
+          9.9,
+          9.8,
+          3.6,
+          3.6
+        ]
+      },
+      {
+        "id": 66,
+        "name": "Chapman Snyder",
+        "grades": [
+          6.8,
+          7.6,
+          5.4,
+          6.6
+        ]
+      },
+      {
+        "id": 67,
+        "name": "Gordon Martin",
+        "grades": [
+          7.3,
+          7.3,
+          4.7,
+          3.8
+        ]
+      },
+      {
+        "id": 68,
+        "name": "Adele Dickerson",
+        "grades": [
+          6.2,
+          6.5,
+          6.4,
+          5.1
+        ]
+      },
+      {
+        "id": 69,
+        "name": "Susie Hopkins",
+        "grades": [
+          1.5,
+          5.6,
+          7.8,
+          9
+        ]
+      },
+      {
+        "id": 70,
+        "name": "David Lynch",
+        "grades": [
+          0.5,
+          7.5,
+          4.6,
+          9.2
+        ]
+      },
+      {
+        "id": 71,
+        "name": "Candy Cantu",
+        "grades": [
+          9.9,
+          7.4,
+          6.2,
+          6.8
+        ]
+      },
+      {
+        "id": 72,
+        "name": "Davidson Whitney",
+        "grades": [
+          1,
+          8.1,
+          4.2,
+          0.6
+        ]
+      },
+      {
+        "id": 73,
+        "name": "Coffey Nicholson",
+        "grades": [
+          2.3,
+          9.4,
+          4.8,
+          7.5
+        ]
+      },
+      {
+        "id": 74,
+        "name": "Esmeralda Mcclain",
+        "grades": [
+          3.1,
+          2.2,
+          0.5,
+          2.2
+        ]
+      },
+      {
+        "id": 75,
+        "name": "Claire Schwartz",
+        "grades": [
+          3.2,
+          9.5,
+          2.7,
+          2.5
+        ]
+      },
+      {
+        "id": 76,
+        "name": "Garza Medina",
+        "grades": [
+          3,
+          2.5,
+          3.7,
+          4.2
+        ]
+      },
+      {
+        "id": 77,
+        "name": "Deborah Mckenzie",
+        "grades": [
+          7.7,
+          9.7,
+          7.4,
+          2.8
+        ]
+      },
+      {
+        "id": 78,
+        "name": "Dorothy Coleman",
+        "grades": [
+          3.2,
+          7.4,
+          6.7,
+          8.6
+        ]
+      },
+      {
+        "id": 79,
+        "name": "Britt Mann",
+        "grades": [
+          4.5,
+          8,
+          4.3,
+          5
+        ]
+      },
+      {
+        "id": 80,
+        "name": "Cherry Hunt",
+        "grades": [
+          2,
+          0.6,
+          6.5,
+          1.5
+        ]
+      },
+      {
+        "id": 81,
+        "name": "Lola Riggs",
+        "grades": [
+          1.8,
+          1.3,
+          0.2,
+          4.6
+        ]
+      },
+      {
+        "id": 82,
+        "name": "Barry Mclean",
+        "grades": [
+          7.2,
+          8.6,
+          0.9,
+          6
+        ]
+      },
+      {
+        "id": 83,
+        "name": "Hoffman Weiss",
+        "grades": [
+          9.3,
+          9.4,
+          1.8,
+          5.9
+        ]
+      },
+      {
+        "id": 84,
+        "name": "Warren Vinson",
+        "grades": [
+          3.4,
+          4,
+          0.3,
+          3
+        ]
+      },
+      {
+        "id": 85,
+        "name": "Duke Richmond",
+        "grades": [
+          4,
+          0.8,
+          5.3,
+          6.3
+        ]
+      },
+      {
+        "id": 86,
+        "name": "Tabitha Lancaster",
+        "grades": [
+          2.3,
+          0.4,
+          3.1,
+          0.1
+        ]
+      },
+      {
+        "id": 87,
+        "name": "Howe Herring",
+        "grades": [
+          7.3,
+          3.9,
+          7,
+          6.1
+        ]
+      },
+      {
+        "id": 88,
+        "name": "Wilder Dennis",
+        "grades": [
+          5.5,
+          8.9,
+          1.8,
+          1.1
+        ]
+      },
+      {
+        "id": 89,
+        "name": "Swanson Parker",
+        "grades": [
+          1,
+          3.5,
+          8.8,
+          7.1
+        ]
+      },
+      {
+        "id": 90,
+        "name": "Delaney Burks",
+        "grades": [
+          3.4,
+          6.7,
+          0.8,
+          4.8
+        ]
+      },
+      {
+        "id": 91,
+        "name": "Rosario Webb",
+        "grades": [
+          9.2,
+          4.9,
+          3.2,
+          1
+        ]
+      },
+      {
+        "id": 92,
+        "name": "Harrington Gallagher",
+        "grades": [
+          4.9,
+          0.7,
+          8.9,
+          8.7
+        ]
+      },
+      {
+        "id": 93,
+        "name": "Wall Baldwin",
+        "grades": [
+          9.2,
+          1.3,
+          8.3,
+          7.2
+        ]
+      },
+      {
+        "id": 94,
+        "name": "Rosario Bentley",
+        "grades": [
+          3.3,
+          2.4,
+          3.3,
+          3.6
+        ]
+      },
+      {
+        "id": 95,
+        "name": "Davenport Fitzgerald",
+        "grades": [
+          9.6,
+          8.9,
+          3.4,
+          7.1
+        ]
+      },
+      {
+        "id": 96,
+        "name": "Mary Osborne",
+        "grades": [
+          10,
+          7.5,
+          3.4,
+          9.3
+        ]
+      },
+      {
+        "id": 97,
+        "name": "Britney Carrillo",
+        "grades": [
+          6.6,
+          1.6,
+          8,
+          6.8
+        ]
+      },
+      {
+        "id": 98,
+        "name": "Cooper Whitaker",
+        "grades": [
+          5.7,
+          5,
+          5,
+          4.7
+        ]
+      },
+      {
+        "id": 99,
+        "name": "Hickman Glass",
+        "grades": [
+          8.7,
+          4.8,
+          1.6,
+          2.4
+        ]
+      },
+      {
+        "id": 100,
+        "name": "Meghan Thomas",
+        "grades": [
+          0.3,
+          1.7,
+          7.9,
+          4.4
+        ]
+      },
+      {
+        "id": 101,
+        "name": "Joni Gibson",
+        "grades": [
+          0.6,
+          3.5,
+          6.4,
+          9.4
+        ]
+      },
+      {
+        "id": 102,
+        "name": "Ramos Delacruz",
+        "grades": [
+          2.6,
+          4.1,
+          5.4,
+          1.9
+        ]
+      },
+      {
+        "id": 103,
+        "name": "Fay Blair",
+        "grades": [
+          5.2,
+          1.7,
+          4,
+          2.8
+        ]
+      },
+      {
+        "id": 104,
+        "name": "Carolyn Petty",
+        "grades": [
+          7.8,
+          10,
+          5.6,
+          9.2
+        ]
+      },
+      {
+        "id": 105,
+        "name": "Clarke Sharpe",
+        "grades": [
+          2.4,
+          2,
+          7.5,
+          7.8
+        ]
+      },
+      {
+        "id": 106,
+        "name": "Thompson Dean",
+        "grades": [
+          0.2,
+          1.4,
+          6.2,
+          8.8
+        ]
+      },
+      {
+        "id": 107,
+        "name": "Alisha Vargas",
+        "grades": [
+          4.9,
+          2,
+          6.8,
+          4.5
+        ]
+      },
+      {
+        "id": 108,
+        "name": "Torres Giles",
+        "grades": [
+          7,
+          7.8,
+          4.2,
+          3.7
+        ]
+      },
+      {
+        "id": 109,
+        "name": "Warner Hutchinson",
+        "grades": [
+          2.6,
+          8.8,
+          3.5,
+          0.1
+        ]
+      },
+      {
+        "id": 110,
+        "name": "Fischer Contreras",
+        "grades": [
+          1.6,
+          5,
+          6.2,
+          1.5
+        ]
+      },
+      {
+        "id": 111,
+        "name": "Castillo Sims",
+        "grades": [
+          6,
+          8.6,
+          0.2,
+          8.6
+        ]
+      },
+      {
+        "id": 112,
+        "name": "Lancaster Parsons",
+        "grades": [
+          2.6,
+          5.1,
+          6,
+          1.6
+        ]
+      },
+      {
+        "id": 113,
+        "name": "Margarita Juarez",
+        "grades": [
+          9.9,
+          7.3,
+          1,
+          5.4
+        ]
+      },
+      {
+        "id": 114,
+        "name": "Ila Reilly",
+        "grades": [
+          5.1,
+          6.7,
+          4.4,
+          6.9
+        ]
+      },
+      {
+        "id": 115,
+        "name": "Sosa Mcfadden",
+        "grades": [
+          0.7,
+          4.4,
+          6.2,
+          2.6
+        ]
+      },
+      {
+        "id": 116,
+        "name": "Burt Merrill",
+        "grades": [
+          5,
+          7,
+          7,
+          7.7
+        ]
+      },
+      {
+        "id": 117,
+        "name": "Kellie Durham",
+        "grades": [
+          4.7,
+          8.9,
+          8.1,
+          3.5
+        ]
+      },
+      {
+        "id": 118,
+        "name": "Hodges Downs",
+        "grades": [
+          0.8,
+          6,
+          1.5,
+          4.2
+        ]
+      },
+      {
+        "id": 119,
+        "name": "Lottie Rodgers",
+        "grades": [
+          8.3,
+          8.3,
+          8.5,
+          6.1
+        ]
+      },
+      {
+        "id": 120,
+        "name": "Nunez Carey",
+        "grades": [
+          3.9,
+          5.5,
+          0.7,
+          6.5
+        ]
+      },
+      {
+        "id": 121,
+        "name": "Drake Howell",
+        "grades": [
+          7.1,
+          3.6,
+          6.8,
+          6.7
+        ]
+      },
+      {
+        "id": 122,
+        "name": "Stevenson Pitts",
+        "grades": [
+          6.3,
+          4.5,
+          6.5,
+          6.6
+        ]
+      },
+      {
+        "id": 123,
+        "name": "Sarah Vega",
+        "grades": [
+          1.3,
+          9.6,
+          7.9,
+          4.6
+        ]
+      },
+      {
+        "id": 124,
+        "name": "Gilbert Levy",
+        "grades": [
+          0.5,
+          10,
+          8.2,
+          3
+        ]
+      },
+      {
+        "id": 125,
+        "name": "Lorene Ross",
+        "grades": [
+          9.1,
+          7.8,
+          0.1,
+          4.3
+        ]
+      },
+      {
+        "id": 126,
+        "name": "Amanda Curtis",
+        "grades": [
+          3.4,
+          5.9,
+          3.7,
+          5.2
+        ]
+      },
+      {
+        "id": 127,
+        "name": "Bernard Ellis",
+        "grades": [
+          5.4,
+          1.8,
+          4.8,
+          8.2
+        ]
+      },
+      {
+        "id": 128,
+        "name": "Leslie Olsen",
+        "grades": [
+          7.4,
+          9.4,
+          9.4,
+          2.5
+        ]
+      },
+      {
+        "id": 129,
+        "name": "Lindsay James",
+        "grades": [
+          6.3,
+          3.7,
+          5.6,
+          3.7
+        ]
+      },
+      {
+        "id": 130,
+        "name": "Stout Morris",
+        "grades": [
+          8,
+          0.8,
+          4.6,
+          8.7
+        ]
+      },
+      {
+        "id": 131,
+        "name": "Haney Roth",
+        "grades": [
+          4.1,
+          7.7,
+          4.3,
+          7.8
+        ]
+      },
+      {
+        "id": 132,
+        "name": "Raquel Gray",
+        "grades": [
+          0.3,
+          9.8,
+          7.9,
+          9.7
+        ]
+      },
+      {
+        "id": 133,
+        "name": "Bettie Beach",
+        "grades": [
+          6.3,
+          5.5,
+          2.9,
+          6.9
+        ]
+      },
+      {
+        "id": 134,
+        "name": "Goldie Stone",
+        "grades": [
+          6.8,
+          3.4,
+          6.1,
+          8.4
+        ]
+      },
+      {
+        "id": 135,
+        "name": "Gallagher Hobbs",
+        "grades": [
+          3.1,
+          3,
+          3,
+          2.2
+        ]
+      },
+      {
+        "id": 136,
+        "name": "Cruz Gallegos",
+        "grades": [
+          6.5,
+          7.3,
+          8.4,
+          4.4
+        ]
+      },
+      {
+        "id": 137,
+        "name": "Candace Bowers",
+        "grades": [
+          1.9,
+          3.5,
+          6.9,
+          1.1
+        ]
+      },
+      {
+        "id": 138,
+        "name": "Antoinette Mckee",
+        "grades": [
+          3.6,
+          5.2,
+          8.4,
+          7.7
+        ]
+      },
+      {
+        "id": 139,
+        "name": "Bobbi Carson",
+        "grades": [
+          6.5,
+          6.3,
+          7.8,
+          0.7
+        ]
+      },
+      {
+        "id": 140,
+        "name": "Jeannette Watkins",
+        "grades": [
+          0.5,
+          10,
+          6.1,
+          3
+        ]
+      },
+      {
+        "id": 141,
+        "name": "Carpenter Lane",
+        "grades": [
+          5.2,
+          0,
+          1.7,
+          7
+        ]
+      },
+      {
+        "id": 142,
+        "name": "House Hall",
+        "grades": [
+          2.7,
+          3.2,
+          2.9,
+          5
+        ]
+      },
+      {
+        "id": 143,
+        "name": "Sawyer Nielsen",
+        "grades": [
+          1.9,
+          1.7,
+          9,
+          3.4
+        ]
+      },
+      {
+        "id": 144,
+        "name": "Jones Chan",
+        "grades": [
+          7.3,
+          8.3,
+          1,
+          0.3
+        ]
+      },
+      {
+        "id": 145,
+        "name": "Wilson Lott",
+        "grades": [
+          4.3,
+          5.9,
+          8.3,
+          7.9
+        ]
+      },
+      {
+        "id": 146,
+        "name": "Arline Clark",
+        "grades": [
+          0.1,
+          1.3,
+          4.7,
+          4.7
+        ]
+      },
+      {
+        "id": 147,
+        "name": "Deana Erickson",
+        "grades": [
+          5.3,
+          9.2,
+          4.2,
+          9.8
+        ]
+      },
+      {
+        "id": 148,
+        "name": "Beverley Wolfe",
+        "grades": [
+          2.8,
+          5.8,
+          7.8,
+          4.5
+        ]
+      },
+      {
+        "id": 149,
+        "name": "Lizzie Cotton",
+        "grades": [
+          0,
+          4.5,
+          2.5,
+          6.9
+        ]
+      },
+      {
+        "id": 150,
+        "name": "Thornton Livingston",
+        "grades": [
+          9.2,
+          9,
+          3.9,
+          6.5
+        ]
+      },
+      {
+        "id": 151,
+        "name": "Darcy Cooley",
+        "grades": [
+          2.9,
+          6.5,
+          7.2,
+          0.7
+        ]
+      },
+      {
+        "id": 152,
+        "name": "Jamie Henderson",
+        "grades": [
+          1.2,
+          7.9,
+          7.4,
+          1.9
+        ]
+      },
+      {
+        "id": 153,
+        "name": "Ina Sanders",
+        "grades": [
+          2.4,
+          3.9,
+          3,
+          2.3
+        ]
+      },
+      {
+        "id": 154,
+        "name": "Duncan Guerra",
+        "grades": [
+          0,
+          3.4,
+          1.3,
+          9.2
+        ]
+      },
+      {
+        "id": 155,
+        "name": "Taylor Mcneil",
+        "grades": [
+          3.3,
+          6.2,
+          1.7,
+          2.5
+        ]
+      },
+      {
+        "id": 156,
+        "name": "Antonia Flowers",
+        "grades": [
+          9.8,
+          1.3,
+          1.9,
+          4.7
+        ]
+      },
+      {
+        "id": 157,
+        "name": "Jayne Kline",
+        "grades": [
+          1.9,
+          5.7,
+          2.6,
+          3
+        ]
+      },
+      {
+        "id": 158,
+        "name": "Thomas Meyers",
+        "grades": [
+          9.2,
+          5.8,
+          5.8,
+          1.8
+        ]
+      },
+      {
+        "id": 159,
+        "name": "Wong Robbins",
+        "grades": [
+          8.1,
+          9.2,
+          4.9,
+          5.6
+        ]
+      },
+      {
+        "id": 160,
+        "name": "Ronda Byers",
+        "grades": [
+          9.2,
+          3.5,
+          8.8,
+          0.9
+        ]
+      },
+      {
+        "id": 161,
+        "name": "Short Eaton",
+        "grades": [
+          1.2,
+          6,
+          1.5,
+          10
+        ]
+      },
+      {
+        "id": 162,
+        "name": "Vincent Merritt",
+        "grades": [
+          5.6,
+          4,
+          8.4,
+          1.9
+        ]
+      },
+      {
+        "id": 163,
+        "name": "Randolph Ayala",
+        "grades": [
+          5.8,
+          6.4,
+          6.7,
+          5.1
+        ]
+      },
+      {
+        "id": 164,
+        "name": "Morse Bradford",
+        "grades": [
+          0.2,
+          5.9,
+          2.8,
+          2.7
+        ]
+      },
+      {
+        "id": 165,
+        "name": "Ashlee Burch",
+        "grades": [
+          5.1,
+          2.7,
+          2.4,
+          9
+        ]
+      },
+      {
+        "id": 166,
+        "name": "Espinoza Patrick",
+        "grades": [
+          0.8,
+          3.5,
+          0,
+          3.4
+        ]
+      },
+      {
+        "id": 167,
+        "name": "Sherry Randolph",
+        "grades": [
+          9.3,
+          3.6,
+          6.9,
+          4.7
+        ]
+      },
+      {
+        "id": 168,
+        "name": "Sylvia Villarreal",
+        "grades": [
+          8.8,
+          7.8,
+          1.4,
+          3.1
+        ]
+      },
+      {
+        "id": 169,
+        "name": "Haynes Galloway",
+        "grades": [
+          2,
+          8.3,
+          0.6,
+          2.2
+        ]
+      },
+      {
+        "id": 170,
+        "name": "Elizabeth Carter",
+        "grades": [
+          8,
+          4.6,
+          0.8,
+          5.2
+        ]
+      },
+      {
+        "id": 171,
+        "name": "Millie Cameron",
+        "grades": [
+          6.8,
+          1.3,
+          6.7,
+          0.5
+        ]
+      },
+      {
+        "id": 172,
+        "name": "Gwendolyn Noel",
+        "grades": [
+          2.2,
+          5.3,
+          8.1,
+          5
+        ]
+      },
+      {
+        "id": 173,
+        "name": "Mcguire Gillespie",
+        "grades": [
+          1.1,
+          7.7,
+          0.4,
+          4.6
+        ]
+      },
+      {
+        "id": 174,
+        "name": "Justine Singleton",
+        "grades": [
+          6.3,
+          9.3,
+          9.1,
+          3.1
+        ]
+      },
+      {
+        "id": 175,
+        "name": "Amie Graves",
+        "grades": [
+          4.9,
+          2.8,
+          0.5,
+          4.2
+        ]
+      },
+      {
+        "id": 176,
+        "name": "Rosella Leon",
+        "grades": [
+          1.2,
+          4.8,
+          2.5,
+          5.3
+        ]
+      },
+      {
+        "id": 177,
+        "name": "Pierce Foley",
+        "grades": [
+          5.4,
+          3.5,
+          0,
+          1.5
+        ]
+      },
+      {
+        "id": 178,
+        "name": "Reynolds Powers",
+        "grades": [
+          3.2,
+          0,
+          2,
+          8.4
+        ]
+      },
+      {
+        "id": 179,
+        "name": "Kennedy Reed",
+        "grades": [
+          5,
+          10,
+          4.4,
+          6.9
+        ]
+      },
+      {
+        "id": 180,
+        "name": "Cassie Bender",
+        "grades": [
+          2.9,
+          4.9,
+          0.7,
+          1.3
+        ]
+      },
+      {
+        "id": 181,
+        "name": "Patrica Moody",
+        "grades": [
+          0.3,
+          7.9,
+          4.7,
+          4.2
+        ]
+      },
+      {
+        "id": 182,
+        "name": "Daniel Howard",
+        "grades": [
+          3,
+          6.4,
+          8.4,
+          9.7
+        ]
+      },
+      {
+        "id": 183,
+        "name": "Viola Strickland",
+        "grades": [
+          8,
+          9.4,
+          5.8,
+          0.1
+        ]
+      },
+      {
+        "id": 184,
+        "name": "Cristina Duffy",
+        "grades": [
+          5.4,
+          7.4,
+          8.1,
+          1.7
+        ]
+      },
+      {
+        "id": 185,
+        "name": "Hooper Tanner",
+        "grades": [
+          2.9,
+          2.8,
+          0.5,
+          6.9
+        ]
+      },
+      {
+        "id": 186,
+        "name": "Tonya Short",
+        "grades": [
+          4.8,
+          4.2,
+          5.3,
+          9.6
+        ]
+      },
+      {
+        "id": 187,
+        "name": "Garrett Hansen",
+        "grades": [
+          0.2,
+          1.3,
+          5.8,
+          7.4
+        ]
+      },
+      {
+        "id": 188,
+        "name": "Dolores Rosario",
+        "grades": [
+          4.9,
+          7,
+          6.3,
+          7.6
+        ]
+      },
+      {
+        "id": 189,
+        "name": "Blanchard Mayo",
+        "grades": [
+          7.8,
+          5.6,
+          7,
+          4.3
+        ]
+      },
+      {
+        "id": 190,
+        "name": "Harriett Emerson",
+        "grades": [
+          7.7,
+          1.1,
+          0.6,
+          2
+        ]
+      },
+      {
+        "id": 191,
+        "name": "Olson Long",
+        "grades": [
+          7.6,
+          5.7,
+          0.4,
+          3.5
+        ]
+      },
+      {
+        "id": 192,
+        "name": "Fields Whitehead",
+        "grades": [
+          1.8,
+          8.7,
+          9.3,
+          0
+        ]
+      },
+      {
+        "id": 193,
+        "name": "Freeman Stuart",
+        "grades": [
+          3.6,
+          0,
+          0.8,
+          8.2
+        ]
+      },
+      {
+        "id": 194,
+        "name": "Hester Perry",
+        "grades": [
+          8.2,
+          6.7,
+          8.6,
+          9
+        ]
+      },
+      {
+        "id": 195,
+        "name": "Nita Cooper",
+        "grades": [
+          2.7,
+          4.8,
+          0.4,
+          2.4
+        ]
+      },
+      {
+        "id": 196,
+        "name": "Sanchez Macias",
+        "grades": [
+          1.2,
+          9.3,
+          5.9,
+          5.1
+        ]
+      },
+      {
+        "id": 197,
+        "name": "Patti Smith",
+        "grades": [
+          2,
+          7.7,
+          1.2,
+          8.4
+        ]
+      },
+      {
+        "id": 198,
+        "name": "Kristen Fischer",
+        "grades": [
+          4.8,
+          2.7,
+          4.9,
+          0.7
+        ]
+      },
+      {
+        "id": 199,
+        "name": "Dorsey Neal",
+        "grades": [
+          2.6,
+          1.7,
+          9.9,
+          5.4
+        ]
+      },
+      {
+        "id": 200,
+        "name": "Marie Cochran",
+        "grades": [
+          4.4,
+          1.6,
+          0.5,
+          8.5
+        ]
+      },
+      {
+        "id": 201,
+        "name": "Kane Roy",
+        "grades": [
+          8.9,
+          0.7,
+          3.3,
+          9.9
+        ]
+      },
+      {
+        "id": 202,
+        "name": "Elsa Moreno",
+        "grades": [
+          4.2,
+          0.1,
+          7.8,
+          9.2
+        ]
+      },
+      {
+        "id": 203,
+        "name": "Quinn Hood",
+        "grades": [
+          6.1,
+          3,
+          7.4,
+          8.9
+        ]
+      },
+      {
+        "id": 204,
+        "name": "Elaine Pope",
+        "grades": [
+          4.8,
+          6,
+          2,
+          0.5
+        ]
+      },
+      {
+        "id": 205,
+        "name": "Baxter Aguirre",
+        "grades": [
+          5.8,
+          5,
+          8.3,
+          3.9
+        ]
+      },
+      {
+        "id": 206,
+        "name": "Reid Schroeder",
+        "grades": [
+          1.7,
+          8.5,
+          9.7,
+          0.7
+        ]
+      },
+      {
+        "id": 207,
+        "name": "Clark Hayden",
+        "grades": [
+          4.2,
+          3.2,
+          6.3,
+          2.8
+        ]
+      },
+      {
+        "id": 208,
+        "name": "Mcknight Holt",
+        "grades": [
+          7.3,
+          6.4,
+          0.9,
+          6.9
+        ]
+      },
+      {
+        "id": 209,
+        "name": "Latisha Guy",
+        "grades": [
+          9.7,
+          5.7,
+          9.8,
+          5.2
+        ]
+      },
+      {
+        "id": 210,
+        "name": "Mccray Sparks",
+        "grades": [
+          3.1,
+          7.2,
+          6.6,
+          10
+        ]
+      },
+      {
+        "id": 211,
+        "name": "Robert Mccormick",
+        "grades": [
+          9.4,
+          5.4,
+          1.2,
+          7.4
+        ]
+      },
+      {
+        "id": 212,
+        "name": "Hancock Wolf",
+        "grades": [
+          3.7,
+          5.1,
+          1.4,
+          2.2
+        ]
+      },
+      {
+        "id": 213,
+        "name": "Harriet Chang",
+        "grades": [
+          7.4,
+          8,
+          6.9,
+          8.8
+        ]
+      },
+      {
+        "id": 214,
+        "name": "Eula Clemons",
+        "grades": [
+          5.8,
+          8.3,
+          3.8,
+          7.3
+        ]
+      },
+      {
+        "id": 215,
+        "name": "Carmella Vaughn",
+        "grades": [
+          1,
+          6.6,
+          8.9,
+          8.4
+        ]
+      },
+      {
+        "id": 216,
+        "name": "Eva Austin",
+        "grades": [
+          4.7,
+          0.8,
+          1.7,
+          5.3
+        ]
+      },
+      {
+        "id": 217,
+        "name": "Delacruz Sheppard",
+        "grades": [
+          4.7,
+          8.5,
+          2.3,
+          9.3
+        ]
+      },
+      {
+        "id": 218,
+        "name": "Lucile Mclaughlin",
+        "grades": [
+          5.2,
+          6.3,
+          8.4,
+          9.8
+        ]
+      },
+      {
+        "id": 219,
+        "name": "Frazier Levine",
+        "grades": [
+          5.2,
+          8.8,
+          5.1,
+          1.5
+        ]
+      },
+      {
+        "id": 220,
+        "name": "Ginger Mathis",
+        "grades": [
+          2.8,
+          8.5,
+          9.8,
+          5.3
+        ]
+      },
+      {
+        "id": 221,
+        "name": "Hunter Harrington",
+        "grades": [
+          1.8,
+          0.3,
+          9.1,
+          3.7
+        ]
+      },
+      {
+        "id": 222,
+        "name": "Edwina Hewitt",
+        "grades": [
+          4.9,
+          0.7,
+          7.1,
+          1.8
+        ]
+      },
+      {
+        "id": 223,
+        "name": "Jenna Sampson",
+        "grades": [
+          0.4,
+          6.4,
+          6.6,
+          2.9
+        ]
+      },
+      {
+        "id": 224,
+        "name": "Rosemary Donovan",
+        "grades": [
+          0.2,
+          6.7,
+          1.8,
+          2.8
+        ]
+      },
+      {
+        "id": 225,
+        "name": "Marisa Beasley",
+        "grades": [
+          4.2,
+          1.8,
+          4.7,
+          5
+        ]
+      },
+      {
+        "id": 226,
+        "name": "Nelson Cantrell",
+        "grades": [
+          6.6,
+          7.1,
+          6.8,
+          4.1
+        ]
+      },
+      {
+        "id": 227,
+        "name": "Gibson Drake",
+        "grades": [
+          9,
+          6.5,
+          4.6,
+          5.3
+        ]
+      },
+      {
+        "id": 228,
+        "name": "Callahan Pennington",
+        "grades": [
+          0.9,
+          7.6,
+          6.1,
+          3.9
+        ]
+      },
+      {
+        "id": 229,
+        "name": "Huff Bray",
+        "grades": [
+          6.8,
+          1.1,
+          0.4,
+          1
+        ]
+      },
+      {
+        "id": 230,
+        "name": "Riggs Mcbride",
+        "grades": [
+          7,
+          4.2,
+          4.5,
+          8.4
+        ]
+      },
+      {
+        "id": 231,
+        "name": "Lois Hawkins",
+        "grades": [
+          3.4,
+          0.5,
+          5.5,
+          9.8
+        ]
+      },
+      {
+        "id": 232,
+        "name": "Chandra Fitzpatrick",
+        "grades": [
+          5.4,
+          5.2,
+          9,
+          2.2
+        ]
+      },
+      {
+        "id": 233,
+        "name": "Claudine Pace",
+        "grades": [
+          2.2,
+          4.8,
+          4.6,
+          2.1
+        ]
+      },
+      {
+        "id": 234,
+        "name": "Roman Holloway",
+        "grades": [
+          4.6,
+          6.1,
+          9.7,
+          8.1
+        ]
+      },
+      {
+        "id": 235,
+        "name": "Kitty Huff",
+        "grades": [
+          7.4,
+          3.1,
+          7.8,
+          2.8
+        ]
+      },
+      {
+        "id": 236,
+        "name": "Janna Chambers",
+        "grades": [
+          3.2,
+          6.4,
+          2.4,
+          3.1
+        ]
+      },
+      {
+        "id": 237,
+        "name": "Chambers Hendricks",
+        "grades": [
+          3.9,
+          8.5,
+          7.3,
+          8.4
+        ]
+      },
+      {
+        "id": 238,
+        "name": "Chan Slater",
+        "grades": [
+          5.3,
+          7.5,
+          6.7,
+          0.5
+        ]
+      },
+      {
+        "id": 239,
+        "name": "Gilliam Rosales",
+        "grades": [
+          2,
+          0.2,
+          8.7,
+          5.6
+        ]
+      },
+      {
+        "id": 240,
+        "name": "Carney Guerrero",
+        "grades": [
+          1.9,
+          1.7,
+          3.3,
+          4.1
+        ]
+      },
+      {
+        "id": 241,
+        "name": "Dennis Richardson",
+        "grades": [
+          1.8,
+          2.4,
+          9.3,
+          6.4
+        ]
+      },
+      {
+        "id": 242,
+        "name": "Rosales Newman",
+        "grades": [
+          8.1,
+          3.3,
+          0.5,
+          9.9
+        ]
+      },
+      {
+        "id": 243,
+        "name": "Schwartz Houston",
+        "grades": [
+          6.9,
+          4.6,
+          7.7,
+          4.7
+        ]
+      },
+      {
+        "id": 244,
+        "name": "Morrison Riddle",
+        "grades": [
+          7.5,
+          6.1,
+          9.1,
+          9.9
+        ]
+      },
+      {
+        "id": 245,
+        "name": "Myra Blanchard",
+        "grades": [
+          7.4,
+          9,
+          0,
+          8.2
+        ]
+      },
+      {
+        "id": 246,
+        "name": "Compton Hickman",
+        "grades": [
+          4.3,
+          10,
+          3.5,
+          5.4
+        ]
+      },
+      {
+        "id": 247,
+        "name": "Dora Macdonald",
+        "grades": [
+          2.9,
+          0.1,
+          6.7,
+          2.5
+        ]
+      },
+      {
+        "id": 248,
+        "name": "Meagan Mueller",
+        "grades": [
+          8.9,
+          7.1,
+          6.5,
+          4
+        ]
+      },
+      {
+        "id": 249,
+        "name": "Allen Odom",
+        "grades": [
+          8.6,
+          2.4,
+          2.8,
+          9.4
+        ]
+      },
+      {
+        "id": 250,
+        "name": "Ramona Byrd",
+        "grades": [
+          0.5,
+          6.8,
+          8.5,
+          5.3
+        ]
+      },
+      {
+        "id": 251,
+        "name": "Duran Morgan",
+        "grades": [
+          2.3,
+          9.1,
+          1.2,
+          5.1
+        ]
+      },
+      {
+        "id": 252,
+        "name": "Rosalind Mcclure",
+        "grades": [
+          9.8,
+          4.4,
+          1.4,
+          3.2
+        ]
+      },
+      {
+        "id": 253,
+        "name": "Carmela Young",
+        "grades": [
+          4.7,
+          9.4,
+          9.7,
+          0.1
+        ]
+      },
+      {
+        "id": 254,
+        "name": "Hahn Baxter",
+        "grades": [
+          0.9,
+          9.8,
+          8.1,
+          5.8
+        ]
+      },
+      {
+        "id": 255,
+        "name": "Rice Boyd",
+        "grades": [
+          4.8,
+          1.2,
+          5.3,
+          1.4
+        ]
+      },
+      {
+        "id": 256,
+        "name": "Blankenship Cannon",
+        "grades": [
+          5.6,
+          0.3,
+          5.6,
+          2.2
+        ]
+      },
+      {
+        "id": 257,
+        "name": "Rivas Hester",
+        "grades": [
+          7.8,
+          5.7,
+          2.1,
+          3.3
+        ]
+      },
+      {
+        "id": 258,
+        "name": "Richardson Wells",
+        "grades": [
+          9.3,
+          0.2,
+          7.9,
+          4.4
+        ]
+      },
+      {
+        "id": 259,
+        "name": "Glover Franks",
+        "grades": [
+          3.2,
+          7.8,
+          2.4,
+          7.6
+        ]
+      },
+      {
+        "id": 260,
+        "name": "Holmes Wyatt",
+        "grades": [
+          5.7,
+          8.5,
+          0.9,
+          8.8
+        ]
+      },
+      {
+        "id": 261,
+        "name": "Beasley Foreman",
+        "grades": [
+          5.3,
+          9.5,
+          5.7,
+          1.5
+        ]
+      },
+      {
+        "id": 262,
+        "name": "Howell Clay",
+        "grades": [
+          2.5,
+          0.2,
+          5.3,
+          2.1
+        ]
+      },
+      {
+        "id": 263,
+        "name": "Ware Rocha",
+        "grades": [
+          4.2,
+          8.5,
+          6.6,
+          1.9
+        ]
+      },
+      {
+        "id": 264,
+        "name": "Mari Richards",
+        "grades": [
+          8.4,
+          7.2,
+          7.7,
+          6.7
+        ]
+      },
+      {
+        "id": 265,
+        "name": "Jodie Faulkner",
+        "grades": [
+          9.6,
+          2.5,
+          2.1,
+          9.8
+        ]
+      },
+      {
+        "id": 266,
+        "name": "Bender Horton",
+        "grades": [
+          2.9,
+          8.3,
+          8.3,
+          8.6
+        ]
+      },
+      {
+        "id": 267,
+        "name": "Conway Obrien",
+        "grades": [
+          1.9,
+          7.9,
+          8.5,
+          9.3
+        ]
+      },
+      {
+        "id": 268,
+        "name": "Alicia Snider",
+        "grades": [
+          7.9,
+          4.4,
+          5.4,
+          1.6
+        ]
+      },
+      {
+        "id": 269,
+        "name": "Henson Bridges",
+        "grades": [
+          7,
+          4.3,
+          3.6,
+          2.6
+        ]
+      },
+      {
+        "id": 270,
+        "name": "Beatrice Barry",
+        "grades": [
+          9.3,
+          7.5,
+          0.3,
+          7.3
+        ]
+      },
+      {
+        "id": 271,
+        "name": "Dawson Paul",
+        "grades": [
+          5.1,
+          0.1,
+          5.1,
+          4.3
+        ]
+      },
+      {
+        "id": 272,
+        "name": "Edna Hays",
+        "grades": [
+          1.8,
+          8.3,
+          9.1,
+          5.3
+        ]
+      },
+      {
+        "id": 273,
+        "name": "Herrera Rodriquez",
+        "grades": [
+          1.9,
+          7.7,
+          0.4,
+          4.7
+        ]
+      },
+      {
+        "id": 274,
+        "name": "Harrell Hayes",
+        "grades": [
+          5.3,
+          3,
+          8.5,
+          10
+        ]
+      },
+      {
+        "id": 275,
+        "name": "Morrow Hatfield",
+        "grades": [
+          3.7,
+          2.7,
+          0.9,
+          7.6
+        ]
+      },
+      {
+        "id": 276,
+        "name": "Crane Kelly",
+        "grades": [
+          2.2,
+          8.3,
+          7,
+          10
+        ]
+      },
+      {
+        "id": 277,
+        "name": "Curry Rollins",
+        "grades": [
+          0.8,
+          5.6,
+          0,
+          9.2
+        ]
+      },
+      {
+        "id": 278,
+        "name": "Smith Davidson",
+        "grades": [
+          6.5,
+          1.1,
+          5.2,
+          8.6
+        ]
+      },
+      {
+        "id": 279,
+        "name": "Joyce Clements",
+        "grades": [
+          0.9,
+          4.4,
+          7.2,
+          3.3
+        ]
+      },
+      {
+        "id": 280,
+        "name": "Stacey Miller",
+        "grades": [
+          3.7,
+          1.3,
+          8.1,
+          3.1
+        ]
+      },
+      {
+        "id": 281,
+        "name": "Gibbs Lamb",
+        "grades": [
+          6.9,
+          2.7,
+          5.5,
+          7.8
+        ]
+      },
+      {
+        "id": 282,
+        "name": "Hays Griffin",
+        "grades": [
+          7,
+          2,
+          0.8,
+          8.2
+        ]
+      },
+      {
+        "id": 283,
+        "name": "Rena Cole",
+        "grades": [
+          0.3,
+          5.6,
+          3,
+          6.6
+        ]
+      },
+      {
+        "id": 284,
+        "name": "Sara Cline",
+        "grades": [
+          4.7,
+          4.5,
+          3.8,
+          8.9
+        ]
+      },
+      {
+        "id": 285,
+        "name": "Isabel Burris",
+        "grades": [
+          4,
+          3.4,
+          3.4,
+          3.9
+        ]
+      },
+      {
+        "id": 286,
+        "name": "Stephens Albert",
+        "grades": [
+          3.9,
+          1.6,
+          9.7,
+          6.9
+        ]
+      },
+      {
+        "id": 287,
+        "name": "Browning Saunders",
+        "grades": [
+          1,
+          3.1,
+          0.7,
+          10
+        ]
+      },
+      {
+        "id": 288,
+        "name": "Leon Russell",
+        "grades": [
+          9.7,
+          4.2,
+          5.5,
+          7.9
+        ]
+      },
+      {
+        "id": 289,
+        "name": "Greene Ball",
+        "grades": [
+          7.4,
+          2.9,
+          2.5,
+          7.1
+        ]
+      },
+      {
+        "id": 290,
+        "name": "Francis Hartman",
+        "grades": [
+          1.5,
+          3.2,
+          2,
+          1.9
+        ]
+      },
+      {
+        "id": 291,
+        "name": "Bates Goff",
+        "grades": [
+          3.9,
+          2.9,
+          1.9,
+          6.4
+        ]
+      },
+      {
+        "id": 292,
+        "name": "Levine Garza",
+        "grades": [
+          5.5,
+          6.8,
+          1.3,
+          6.1
+        ]
+      },
+      {
+        "id": 293,
+        "name": "Chase Brown",
+        "grades": [
+          1.7,
+          3.2,
+          1.1,
+          9.3
+        ]
+      },
+      {
+        "id": 294,
+        "name": "Mcclure Tucker",
+        "grades": [
+          8.3,
+          7.8,
+          4.8,
+          5.1
+        ]
+      },
+      {
+        "id": 295,
+        "name": "Odonnell Poole",
+        "grades": [
+          3.7,
+          2.2,
+          4,
+          0.3
+        ]
+      },
+      {
+        "id": 296,
+        "name": "Terra Dominguez",
+        "grades": [
+          0.5,
+          1.9,
+          1.1,
+          6.2
+        ]
+      },
+      {
+        "id": 297,
+        "name": "Kelly Higgins",
+        "grades": [
+          9.8,
+          3.8,
+          9.6,
+          2.9
+        ]
+      },
+      {
+        "id": 298,
+        "name": "Hubbard Lowery",
+        "grades": [
+          5.1,
+          5,
+          2.6,
+          4.9
+        ]
+      },
+      {
+        "id": 299,
+        "name": "Finley Boone",
+        "grades": [
+          4.1,
+          8.5,
+          4,
+          4.9
+        ]
+      },
+      {
+        "id": 300,
+        "name": "Phelps Mcgee",
+        "grades": [
+          7.5,
+          8.3,
+          1.5,
+          0.5
+        ]
+      },
+      {
+        "id": 301,
+        "name": "Talley Gomez",
+        "grades": [
+          0,
+          9.7,
+          8.6,
+          4.6
+        ]
+      },
+      {
+        "id": 302,
+        "name": "Odom Moon",
+        "grades": [
+          1.3,
+          8.6,
+          2,
+          7.8
+        ]
+      },
+      {
+        "id": 303,
+        "name": "Day Gill",
+        "grades": [
+          4.5,
+          1.1,
+          4.4,
+          3.2
+        ]
+      },
+      {
+        "id": 304,
+        "name": "Young Trevino",
+        "grades": [
+          2.5,
+          2.3,
+          2.7,
+          0.3
+        ]
+      },
+      {
+        "id": 305,
+        "name": "Langley Conley",
+        "grades": [
+          5.9,
+          2.7,
+          0.2,
+          6.8
+        ]
+      },
+      {
+        "id": 306,
+        "name": "Sutton Henson",
+        "grades": [
+          8.3,
+          6.4,
+          5.4,
+          7.2
+        ]
+      },
+      {
+        "id": 307,
+        "name": "Valentine Jennings",
+        "grades": [
+          8.9,
+          7.1,
+          2.6,
+          0.8
+        ]
+      },
+      {
+        "id": 308,
+        "name": "Green Patterson",
+        "grades": [
+          0.3,
+          0.7,
+          5,
+          5.4
+        ]
+      },
+      {
+        "id": 309,
+        "name": "Lelia Porter",
+        "grades": [
+          3.7,
+          0.2,
+          6.3,
+          4.9
+        ]
+      },
+      {
+        "id": 310,
+        "name": "Gregory Jimenez",
+        "grades": [
+          7.7,
+          5.4,
+          0.8,
+          0.1
+        ]
+      },
+      {
+        "id": 311,
+        "name": "Riley Richard",
+        "grades": [
+          6.4,
+          9.7,
+          6.5,
+          9.2
+        ]
+      },
+      {
+        "id": 312,
+        "name": "Isabella Kaufman",
+        "grades": [
+          5.1,
+          5.5,
+          1,
+          8
+        ]
+      },
+      {
+        "id": 313,
+        "name": "Fleming Bullock",
+        "grades": [
+          1.5,
+          2.4,
+          7.6,
+          1.4
+        ]
+      },
+      {
+        "id": 314,
+        "name": "Josefina Mcdowell",
+        "grades": [
+          0.7,
+          8.3,
+          7.7,
+          4.5
+        ]
+      },
+      {
+        "id": 315,
+        "name": "Jenkins Mccoy",
+        "grades": [
+          3.1,
+          2.2,
+          9.4,
+          7.7
+        ]
+      },
+      {
+        "id": 316,
+        "name": "Snyder Mullen",
+        "grades": [
+          9.3,
+          2.5,
+          5.6,
+          1.7
+        ]
+      },
+      {
+        "id": 317,
+        "name": "Fitzpatrick Battle",
+        "grades": [
+          1.6,
+          3.1,
+          3.4,
+          5.6
+        ]
+      },
+      {
+        "id": 318,
+        "name": "Beard Roman",
+        "grades": [
+          9.6,
+          5.8,
+          6.6,
+          6.6
+        ]
+      },
+      {
+        "id": 319,
+        "name": "Aguirre Olson",
+        "grades": [
+          7.7,
+          3.5,
+          9.7,
+          1.2
+        ]
+      },
+      {
+        "id": 320,
+        "name": "Georgette Vazquez",
+        "grades": [
+          6.3,
+          1.8,
+          6.5,
+          5.9
+        ]
+      },
+      {
+        "id": 321,
+        "name": "Margaret Zimmerman",
+        "grades": [
+          8.1,
+          3.8,
+          0.3,
+          7.7
+        ]
+      },
+      {
+        "id": 322,
+        "name": "Maryann Gross",
+        "grades": [
+          6.9,
+          0,
+          7.5,
+          8.5
+        ]
+      },
+      {
+        "id": 323,
+        "name": "Imelda Gregory",
+        "grades": [
+          2.2,
+          3.5,
+          5.6,
+          3.9
+        ]
+      },
+      {
+        "id": 324,
+        "name": "Kasey Bright",
+        "grades": [
+          2.4,
+          2.2,
+          9.4,
+          8.3
+        ]
+      },
+      {
+        "id": 325,
+        "name": "Wanda Tyler",
+        "grades": [
+          7.8,
+          8.2,
+          1.4,
+          3.5
+        ]
+      },
+      {
+        "id": 326,
+        "name": "Cornelia Britt",
+        "grades": [
+          5.4,
+          1.7,
+          4.2,
+          6.2
+        ]
+      },
+      {
+        "id": 327,
+        "name": "Michele Justice",
+        "grades": [
+          3.9,
+          2.2,
+          8.6,
+          8.9
+        ]
+      },
+      {
+        "id": 328,
+        "name": "Flowers Callahan",
+        "grades": [
+          0.9,
+          0.5,
+          9.2,
+          4.6
+        ]
+      },
+      {
+        "id": 329,
+        "name": "Blackwell Vincent",
+        "grades": [
+          2.1,
+          9.2,
+          9.9,
+          4.8
+        ]
+      },
+      {
+        "id": 330,
+        "name": "Gwen Gonzalez",
+        "grades": [
+          6.2,
+          5.6,
+          4.3,
+          2.9
+        ]
+      },
+      {
+        "id": 331,
+        "name": "Yang Stanton",
+        "grades": [
+          3.5,
+          0.2,
+          4.8,
+          6.1
+        ]
+      },
+      {
+        "id": 332,
+        "name": "Lily Gordon",
+        "grades": [
+          4.6,
+          8.6,
+          8.5,
+          3.1
+        ]
+      },
+      {
+        "id": 333,
+        "name": "Contreras Snow",
+        "grades": [
+          0.2,
+          9.5,
+          0,
+          8.3
+        ]
+      },
+      {
+        "id": 334,
+        "name": "Hazel Ratliff",
+        "grades": [
+          2.5,
+          8.2,
+          0.8,
+          6.6
+        ]
+      },
+      {
+        "id": 335,
+        "name": "Charlotte Forbes",
+        "grades": [
+          4.8,
+          9.8,
+          2.4,
+          5.6
+        ]
+      },
+      {
+        "id": 336,
+        "name": "Munoz Mcfarland",
+        "grades": [
+          1.7,
+          3.3,
+          8.3,
+          4.8
+        ]
+      },
+      {
+        "id": 337,
+        "name": "Darla Adams",
+        "grades": [
+          4.5,
+          5.2,
+          8.2,
+          4.2
+        ]
+      },
+      {
+        "id": 338,
+        "name": "Monroe Reeves",
+        "grades": [
+          9.1,
+          2.7,
+          4.6,
+          2.1
+        ]
+      },
+      {
+        "id": 339,
+        "name": "Nina Duran",
+        "grades": [
+          3.2,
+          2.3,
+          9,
+          8
+        ]
+      },
+      {
+        "id": 340,
+        "name": "Elma David",
+        "grades": [
+          0,
+          8.1,
+          3.9,
+          8.1
+        ]
+      },
+      {
+        "id": 341,
+        "name": "Gracie Jarvis",
+        "grades": [
+          4.6,
+          7.6,
+          4.3,
+          1.7
+        ]
+      },
+      {
+        "id": 342,
+        "name": "Weber Murphy",
+        "grades": [
+          5.7,
+          7.2,
+          4.7,
+          6.2
+        ]
+      },
+      {
+        "id": 343,
+        "name": "Mckay Garner",
+        "grades": [
+          6.8,
+          0.7,
+          3,
+          1.7
+        ]
+      },
+      {
+        "id": 344,
+        "name": "Glenda Williamson",
+        "grades": [
+          8.9,
+          7.6,
+          5.3,
+          3.3
+        ]
+      },
+      {
+        "id": 345,
+        "name": "Sampson Garrett",
+        "grades": [
+          0,
+          6.9,
+          6.2,
+          7.5
+        ]
+      },
+      {
+        "id": 346,
+        "name": "Summer Dawson",
+        "grades": [
+          6.5,
+          3.9,
+          5.8,
+          6.9
+        ]
+      },
+      {
+        "id": 347,
+        "name": "Delgado Cain",
+        "grades": [
+          4,
+          4.6,
+          7,
+          4.2
+        ]
+      },
+      {
+        "id": 348,
+        "name": "Leta Wallace",
+        "grades": [
+          2.2,
+          0.7,
+          4.6,
+          0.6
+        ]
+      },
+      {
+        "id": 349,
+        "name": "Adkins Stephenson",
+        "grades": [
+          3.1,
+          5,
+          2,
+          8.4
+        ]
+      },
+      {
+        "id": 350,
+        "name": "Willie Sherman",
+        "grades": [
+          6.6,
+          4.8,
+          6.8,
+          1.6
+        ]
+      },
+      {
+        "id": 351,
+        "name": "Mandy Warner",
+        "grades": [
+          7.7,
+          5.9,
+          7.3,
+          9
+        ]
+      },
+      {
+        "id": 352,
+        "name": "Alba Oneal",
+        "grades": [
+          8.5,
+          6.1,
+          9.3,
+          7.9
+        ]
+      },
+      {
+        "id": 353,
+        "name": "Rebecca Knox",
+        "grades": [
+          8.7,
+          4.3,
+          7.1,
+          5.1
+        ]
+      },
+      {
+        "id": 354,
+        "name": "Carver Ferguson",
+        "grades": [
+          5.8,
+          8,
+          7.8,
+          8.3
+        ]
+      },
+      {
+        "id": 355,
+        "name": "Lane Serrano",
+        "grades": [
+          7,
+          2.8,
+          1,
+          3.6
+        ]
+      },
+      {
+        "id": 356,
+        "name": "Andrews Walter",
+        "grades": [
+          3.2,
+          2.6,
+          7.1,
+          6.6
+        ]
+      },
+      {
+        "id": 357,
+        "name": "Cheri Ashley",
+        "grades": [
+          9.1,
+          5.1,
+          3.5,
+          2.5
+        ]
+      },
+      {
+        "id": 358,
+        "name": "Janet Fleming",
+        "grades": [
+          2.2,
+          1,
+          4.5,
+          8.8
+        ]
+      },
+      {
+        "id": 359,
+        "name": "Monique Joseph",
+        "grades": [
+          9.1,
+          2.1,
+          0.7,
+          6.7
+        ]
+      },
+      {
+        "id": 360,
+        "name": "Townsend Valenzuela",
+        "grades": [
+          3.4,
+          0.6,
+          8.8,
+          5.5
+        ]
+      },
+      {
+        "id": 361,
+        "name": "Roth Phillips",
+        "grades": [
+          3.9,
+          8,
+          2.6,
+          3.3
+        ]
+      },
+      {
+        "id": 362,
+        "name": "Stein Washington",
+        "grades": [
+          7.8,
+          9.7,
+          0.6,
+          3.1
+        ]
+      },
+      {
+        "id": 363,
+        "name": "Trujillo Manning",
+        "grades": [
+          2.4,
+          0.9,
+          10,
+          5.8
+        ]
+      },
+      {
+        "id": 364,
+        "name": "Mack Bruce",
+        "grades": [
+          9.4,
+          10,
+          5,
+          7.5
+        ]
+      },
+      {
+        "id": 365,
+        "name": "Tameka Gilbert",
+        "grades": [
+          7,
+          5.4,
+          1.8,
+          2.5
+        ]
+      },
+      {
+        "id": 366,
+        "name": "Claudette Lawrence",
+        "grades": [
+          6.1,
+          4.4,
+          0.4,
+          0.2
+        ]
+      },
+      {
+        "id": 367,
+        "name": "Charles Hunter",
+        "grades": [
+          5.9,
+          9.3,
+          0.3,
+          4.6
+        ]
+      },
+      {
+        "id": 368,
+        "name": "Melissa Bauer",
+        "grades": [
+          6.3,
+          0.3,
+          6.4,
+          4.2
+        ]
+      },
+      {
+        "id": 369,
+        "name": "Guadalupe Cohen",
+        "grades": [
+          9.5,
+          4.3,
+          9.8,
+          0.7
+        ]
+      },
+      {
+        "id": 370,
+        "name": "Alisa Hart",
+        "grades": [
+          4.1,
+          9.2,
+          6,
+          2.7
+        ]
+      },
+      {
+        "id": 371,
+        "name": "Sharpe Blackburn",
+        "grades": [
+          8.6,
+          6.9,
+          4.6,
+          7.4
+        ]
+      },
+      {
+        "id": 372,
+        "name": "Gaines Nelson",
+        "grades": [
+          7.2,
+          0.5,
+          4.7,
+          0.9
+        ]
+      },
+      {
+        "id": 373,
+        "name": "Nettie Greene",
+        "grades": [
+          8.2,
+          5.5,
+          0.7,
+          7.1
+        ]
+      },
+      {
+        "id": 374,
+        "name": "Johnnie Warren",
+        "grades": [
+          1.6,
+          5,
+          8.8,
+          4.1
+        ]
+      },
+      {
+        "id": 375,
+        "name": "Rosetta York",
+        "grades": [
+          1,
+          6.4,
+          1.2,
+          2.3
+        ]
+      },
+      {
+        "id": 376,
+        "name": "Debora Sellers",
+        "grades": [
+          9.2,
+          7.8,
+          5.9,
+          0.3
+        ]
+      },
+      {
+        "id": 377,
+        "name": "Lynn Ingram",
+        "grades": [
+          6.6,
+          2.1,
+          3.9,
+          1
+        ]
+      },
+      {
+        "id": 378,
+        "name": "Moody Armstrong",
+        "grades": [
+          1.4,
+          4.7,
+          6.4,
+          9.3
+        ]
+      },
+      {
+        "id": 379,
+        "name": "Brandie Whitley",
+        "grades": [
+          5.2,
+          6.3,
+          8.4,
+          3.7
+        ]
+      },
+      {
+        "id": 380,
+        "name": "Cummings Acevedo",
+        "grades": [
+          5.2,
+          8.1,
+          9.8,
+          8.7
+        ]
+      },
+      {
+        "id": 381,
+        "name": "Dickerson Glenn",
+        "grades": [
+          0.7,
+          1.4,
+          4.5,
+          4.9
+        ]
+      },
+      {
+        "id": 382,
+        "name": "Vasquez Talley",
+        "grades": [
+          9.1,
+          3.9,
+          6.4,
+          8.3
+        ]
+      },
+      {
+        "id": 383,
+        "name": "Laurie Leonard",
+        "grades": [
+          9.7,
+          1.2,
+          6.4,
+          2.2
+        ]
+      },
+      {
+        "id": 384,
+        "name": "Brandy Stout",
+        "grades": [
+          4.2,
+          8.7,
+          6,
+          7.9
+        ]
+      },
+      {
+        "id": 385,
+        "name": "Duffy Potter",
+        "grades": [
+          8.7,
+          4.3,
+          9.2,
+          7.8
+        ]
+      },
+      {
+        "id": 386,
+        "name": "Love Silva",
+        "grades": [
+          1.6,
+          2.4,
+          8.1,
+          0.8
+        ]
+      },
+      {
+        "id": 387,
+        "name": "Hopper Woodward",
+        "grades": [
+          7.5,
+          7.1,
+          7.1,
+          6.1
+        ]
+      },
+      {
+        "id": 388,
+        "name": "Fox Sykes",
+        "grades": [
+          5.9,
+          9.5,
+          0.4,
+          3
+        ]
+      },
+      {
+        "id": 389,
+        "name": "Carey Dorsey",
+        "grades": [
+          0.3,
+          5.7,
+          4,
+          8
+        ]
+      },
+      {
+        "id": 390,
+        "name": "Stella Kerr",
+        "grades": [
+          6.9,
+          2.1,
+          2.8,
+          4.1
+        ]
+      },
+      {
+        "id": 391,
+        "name": "Eugenia Gibbs",
+        "grades": [
+          7.8,
+          5.2,
+          3.6,
+          6.4
+        ]
+      },
+      {
+        "id": 392,
+        "name": "Freda Berry",
+        "grades": [
+          1,
+          5.7,
+          7.3,
+          2.7
+        ]
+      },
+      {
+        "id": 393,
+        "name": "Baldwin Morin",
+        "grades": [
+          0.3,
+          5,
+          2.4,
+          7.8
+        ]
+      },
+      {
+        "id": 394,
+        "name": "Hart Gentry",
+        "grades": [
+          0.1,
+          6.8,
+          3.2,
+          6.3
+        ]
+      },
+      {
+        "id": 395,
+        "name": "Leah Gardner",
+        "grades": [
+          2.8,
+          4.5,
+          2.7,
+          0.4
+        ]
+      },
+      {
+        "id": 396,
+        "name": "Beverly Sweet",
+        "grades": [
+          5.6,
+          1.6,
+          2.8,
+          9.4
+        ]
+      },
+      {
+        "id": 397,
+        "name": "Petty Kidd",
+        "grades": [
+          0.7,
+          4,
+          5.6,
+          9.5
+        ]
+      },
+      {
+        "id": 398,
+        "name": "Cox Salas",
+        "grades": [
+          4.2,
+          5.8,
+          2.4,
+          6.2
+        ]
+      },
+      {
+        "id": 399,
+        "name": "Alexis Jordan",
+        "grades": [
+          5.1,
+          9.9,
+          9.3,
+          6.3
+        ]
+      },
+      {
+        "id": 400,
+        "name": "Barr Yang",
+        "grades": [
+          7.7,
+          0.8,
+          7.5,
+          2.5
+        ]
+      },
+      {
+        "id": 401,
+        "name": "Anna Santiago",
+        "grades": [
+          3.8,
+          0.4,
+          5.9,
+          0.4
+        ]
+      },
+      {
+        "id": 402,
+        "name": "Ericka George",
+        "grades": [
+          0.4,
+          1.4,
+          1.6,
+          1.2
+        ]
+      },
+      {
+        "id": 403,
+        "name": "Harris Frazier",
+        "grades": [
+          1,
+          1.9,
+          2.1,
+          4.1
+        ]
+      },
+      {
+        "id": 404,
+        "name": "Dunn Mendez",
+        "grades": [
+          0.8,
+          0.3,
+          4.9,
+          8.6
+        ]
+      },
+      {
+        "id": 405,
+        "name": "Moran Jackson",
+        "grades": [
+          8.2,
+          6.4,
+          4.4,
+          5.6
+        ]
+      },
+      {
+        "id": 406,
+        "name": "Williamson Harper",
+        "grades": [
+          1,
+          6.9,
+          9.1,
+          6.4
+        ]
+      },
+      {
+        "id": 407,
+        "name": "Pickett Church",
+        "grades": [
+          7.7,
+          9.9,
+          9.1,
+          0.3
+        ]
+      },
+      {
+        "id": 408,
+        "name": "Owen Gilmore",
+        "grades": [
+          5.9,
+          0.3,
+          8.6,
+          8
+        ]
+      },
+      {
+        "id": 409,
+        "name": "Rhea Horne",
+        "grades": [
+          2.2,
+          6.8,
+          5.6,
+          2.3
+        ]
+      },
+      {
+        "id": 410,
+        "name": "Palmer Hinton",
+        "grades": [
+          0.6,
+          2.1,
+          9.7,
+          0.1
+        ]
+      },
+      {
+        "id": 411,
+        "name": "Merrill Prince",
+        "grades": [
+          8.1,
+          0.3,
+          4,
+          9.9
+        ]
+      },
+      {
+        "id": 412,
+        "name": "Kelsey Barnett",
+        "grades": [
+          10,
+          9.4,
+          0.9,
+          4.6
+        ]
+      },
+      {
+        "id": 413,
+        "name": "Vera Woodard",
+        "grades": [
+          9.9,
+          3.7,
+          5.6,
+          1.6
+        ]
+      },
+      {
+        "id": 414,
+        "name": "Hester Camacho",
+        "grades": [
+          2.8,
+          1.5,
+          5.9,
+          6
+        ]
+      },
+      {
+        "id": 415,
+        "name": "Boyd Savage",
+        "grades": [
+          4.8,
+          3.5,
+          8.4,
+          6.6
+        ]
+      },
+      {
+        "id": 416,
+        "name": "Pansy Sharp",
+        "grades": [
+          9.7,
+          5.2,
+          8.1,
+          2.7
+        ]
+      },
+      {
+        "id": 417,
+        "name": "Leona Scott",
+        "grades": [
+          7.1,
+          8.1,
+          2.5,
+          7.9
+        ]
+      },
+      {
+        "id": 418,
+        "name": "Alexander Shepard",
+        "grades": [
+          2.2,
+          3.2,
+          9,
+          5.3
+        ]
+      },
+      {
+        "id": 419,
+        "name": "Mays Keller",
+        "grades": [
+          2.7,
+          6.6,
+          3.5,
+          6.2
+        ]
+      },
+      {
+        "id": 420,
+        "name": "Lester Pratt",
+        "grades": [
+          8.4,
+          7.4,
+          9.8,
+          2.6
+        ]
+      },
+      {
+        "id": 421,
+        "name": "Brittany Calhoun",
+        "grades": [
+          1.9,
+          1,
+          7.9,
+          8.5
+        ]
+      },
+      {
+        "id": 422,
+        "name": "Sloan Larson",
+        "grades": [
+          0.9,
+          4.3,
+          6.1,
+          3.7
+        ]
+      },
+      {
+        "id": 423,
+        "name": "Edwards Mccarty",
+        "grades": [
+          1.4,
+          6.2,
+          5.8,
+          6.9
+        ]
+      },
+      {
+        "id": 424,
+        "name": "Whitney Horn",
+        "grades": [
+          9.9,
+          6.6,
+          7.8,
+          8
+        ]
+      },
+      {
+        "id": 425,
+        "name": "Byrd Frank",
+        "grades": [
+          9.3,
+          10,
+          6.9,
+          4.8
+        ]
+      },
+      {
+        "id": 426,
+        "name": "Solis Martinez",
+        "grades": [
+          5.5,
+          2.1,
+          2.3,
+          9.8
+        ]
+      },
+      {
+        "id": 427,
+        "name": "Burton Waller",
+        "grades": [
+          2.7,
+          7.9,
+          5.8,
+          2
+        ]
+      },
+      {
+        "id": 428,
+        "name": "Weeks Sears",
+        "grades": [
+          9.5,
+          10,
+          4.9,
+          7.6
+        ]
+      },
+      {
+        "id": 429,
+        "name": "Erickson Trujillo",
+        "grades": [
+          9.5,
+          9.5,
+          7.6,
+          9.4
+        ]
+      },
+      {
+        "id": 430,
+        "name": "Loretta Pruitt",
+        "grades": [
+          6.1,
+          7.4,
+          3.4,
+          5.7
+        ]
+      },
+      {
+        "id": 431,
+        "name": "Walsh Ballard",
+        "grades": [
+          8.2,
+          7.5,
+          0.2,
+          0
+        ]
+      },
+      {
+        "id": 432,
+        "name": "Marquita Phelps",
+        "grades": [
+          9.1,
+          9.4,
+          4.7,
+          6.9
+        ]
+      },
+      {
+        "id": 433,
+        "name": "Barlow Franklin",
+        "grades": [
+          8.7,
+          4.4,
+          5.8,
+          8.8
+        ]
+      },
+      {
+        "id": 434,
+        "name": "Kim Mason",
+        "grades": [
+          1.1,
+          6.4,
+          7.6,
+          7.3
+        ]
+      },
+      {
+        "id": 435,
+        "name": "Villarreal Bean",
+        "grades": [
+          7.7,
+          9,
+          0.6,
+          4.5
+        ]
+      },
+      {
+        "id": 436,
+        "name": "Finch Bradshaw",
+        "grades": [
+          8.5,
+          5.3,
+          7.9,
+          5.9
+        ]
+      },
+      {
+        "id": 437,
+        "name": "Bradley Alexander",
+        "grades": [
+          9,
+          8.2,
+          9.9,
+          7.9
+        ]
+      },
+      {
+        "id": 438,
+        "name": "Mallory Luna",
+        "grades": [
+          3.5,
+          4.5,
+          9.4,
+          0.6
+        ]
+      },
+      {
+        "id": 439,
+        "name": "Billie Langley",
+        "grades": [
+          2.1,
+          8.7,
+          4.6,
+          3.4
+        ]
+      },
+      {
+        "id": 440,
+        "name": "Moreno Anthony",
+        "grades": [
+          8.1,
+          7.9,
+          3.1,
+          7.7
+        ]
+      },
+      {
+        "id": 441,
+        "name": "Dudley Miranda",
+        "grades": [
+          7.5,
+          7.1,
+          4.4,
+          2.5
+        ]
+      },
+      {
+        "id": 442,
+        "name": "Odessa Irwin",
+        "grades": [
+          2.8,
+          2.1,
+          3.2,
+          7.9
+        ]
+      },
+      {
+        "id": 443,
+        "name": "Kayla Morales",
+        "grades": [
+          7.7,
+          2.4,
+          9.4,
+          5.5
+        ]
+      },
+      {
+        "id": 444,
+        "name": "Marla Decker",
+        "grades": [
+          4.9,
+          3.9,
+          8.1,
+          8.3
+        ]
+      },
+      {
+        "id": 445,
+        "name": "Sonya Mcmillan",
+        "grades": [
+          4.6,
+          3.9,
+          3.5,
+          2.1
+        ]
+      },
+      {
+        "id": 446,
+        "name": "Selma Lewis",
+        "grades": [
+          8.5,
+          0,
+          0.4,
+          7.6
+        ]
+      },
+      {
+        "id": 447,
+        "name": "Cochran Spence",
+        "grades": [
+          3.5,
+          6.7,
+          8.9,
+          3.7
+        ]
+      },
+      {
+        "id": 448,
+        "name": "Kaye Welch",
+        "grades": [
+          2.9,
+          6.6,
+          9.3,
+          6.6
+        ]
+      },
+      {
+        "id": 449,
+        "name": "Corina Blankenship",
+        "grades": [
+          0.8,
+          3.3,
+          2.3,
+          7.9
+        ]
+      },
+      {
+        "id": 450,
+        "name": "Ann Donaldson",
+        "grades": [
+          5.6,
+          8.6,
+          0.4,
+          9.8
+        ]
+      },
+      {
+        "id": 451,
+        "name": "Katheryn Gaines",
+        "grades": [
+          3.8,
+          4,
+          4.2,
+          3
+        ]
+      },
+      {
+        "id": 452,
+        "name": "Brenda Simon",
+        "grades": [
+          9,
+          0.8,
+          3,
+          8.2
+        ]
+      },
+      {
+        "id": 453,
+        "name": "Jessie Rowe",
+        "grades": [
+          1.1,
+          1.4,
+          6,
+          1.6
+        ]
+      },
+      {
+        "id": 454,
+        "name": "Hatfield Steele",
+        "grades": [
+          2.1,
+          5.6,
+          6.1,
+          8.4
+        ]
+      },
+      {
+        "id": 455,
+        "name": "Maryellen Rios",
+        "grades": [
+          2.8,
+          5.1,
+          9.5,
+          4.8
+        ]
+      },
+      {
+        "id": 456,
+        "name": "Meyer Graham",
+        "grades": [
+          9,
+          6.8,
+          2,
+          4.2
+        ]
+      },
+      {
+        "id": 457,
+        "name": "Aimee Owens",
+        "grades": [
+          5.2,
+          7.5,
+          2,
+          0.4
+        ]
+      },
+      {
+        "id": 458,
+        "name": "Alejandra Barrett",
+        "grades": [
+          0.2,
+          7.7,
+          1.1,
+          0.6
+        ]
+      },
+      {
+        "id": 459,
+        "name": "Lowe Padilla",
+        "grades": [
+          1.5,
+          4.1,
+          5.2,
+          4.6
+        ]
+      },
+      {
+        "id": 460,
+        "name": "Alyce Cervantes",
+        "grades": [
+          3.7,
+          1,
+          2.8,
+          2.2
+        ]
+      },
+      {
+        "id": 461,
+        "name": "Jacobson Lynn",
+        "grades": [
+          1.4,
+          6.7,
+          5.7,
+          5.9
+        ]
+      },
+      {
+        "id": 462,
+        "name": "Mcdaniel Marquez",
+        "grades": [
+          9.4,
+          2.2,
+          7.6,
+          2.9
+        ]
+      },
+      {
+        "id": 463,
+        "name": "Noemi Barrera",
+        "grades": [
+          5.6,
+          6.1,
+          0,
+          1.9
+        ]
+      },
+      {
+        "id": 464,
+        "name": "Buckley Griffith",
+        "grades": [
+          8.1,
+          10,
+          3.5,
+          4.6
+        ]
+      },
+      {
+        "id": 465,
+        "name": "Skinner Lee",
+        "grades": [
+          5.3,
+          4,
+          6,
+          9.1
+        ]
+      },
+      {
+        "id": 466,
+        "name": "Berta Murray",
+        "grades": [
+          5,
+          6,
+          9.3,
+          9.3
+        ]
+      },
+      {
+        "id": 467,
+        "name": "Bernadette Sullivan",
+        "grades": [
+          0,
+          9.9,
+          3.4,
+          5.1
+        ]
+      },
+      {
+        "id": 468,
+        "name": "Bradford Cabrera",
+        "grades": [
+          6,
+          6.9,
+          1.3,
+          6.6
+        ]
+      },
+      {
+        "id": 469,
+        "name": "Fuller Lloyd",
+        "grades": [
+          3.7,
+          6.9,
+          0.8,
+          5.7
+        ]
+      },
+      {
+        "id": 470,
+        "name": "Pearlie Booker",
+        "grades": [
+          6.5,
+          3.7,
+          3,
+          3
+        ]
+      },
+      {
+        "id": 471,
+        "name": "Bray Gay",
+        "grades": [
+          4.3,
+          5.7,
+          2,
+          7
+        ]
+      },
+      {
+        "id": 472,
+        "name": "Suarez Humphrey",
+        "grades": [
+          7.1,
+          6.5,
+          1.5,
+          5.1
+        ]
+      },
+      {
+        "id": 473,
+        "name": "Elinor Frye",
+        "grades": [
+          1.8,
+          0.4,
+          8.4,
+          1.2
+        ]
+      },
+      {
+        "id": 474,
+        "name": "Craft Winters",
+        "grades": [
+          6.7,
+          5.4,
+          6.7,
+          0.2
+        ]
+      },
+      {
+        "id": 475,
+        "name": "Flora Farrell",
+        "grades": [
+          1.6,
+          4.9,
+          4.5,
+          9
+        ]
+      },
+      {
+        "id": 476,
+        "name": "Franks Schmidt",
+        "grades": [
+          2.9,
+          5.1,
+          4.1,
+          6.7
+        ]
+      },
+      {
+        "id": 477,
+        "name": "Maricela Kramer",
+        "grades": [
+          9.3,
+          9,
+          6.4,
+          7.9
+        ]
+      },
+      {
+        "id": 478,
+        "name": "Eaton Daniel",
+        "grades": [
+          5.2,
+          4.8,
+          6.3,
+          2.1
+        ]
+      },
+      {
+        "id": 479,
+        "name": "Jarvis Brock",
+        "grades": [
+          5.9,
+          8.5,
+          9.6,
+          0.7
+        ]
+      },
+      {
+        "id": 480,
+        "name": "Sheena Johnston",
+        "grades": [
+          7.5,
+          6.6,
+          0.8,
+          0.3
+        ]
+      },
+      {
+        "id": 481,
+        "name": "Amber Browning",
+        "grades": [
+          7.2,
+          7.4,
+          5.2,
+          5.4
+        ]
+      },
+      {
+        "id": 482,
+        "name": "Wheeler Burgess",
+        "grades": [
+          5,
+          1.8,
+          5.4,
+          1
+        ]
+      },
+      {
+        "id": 483,
+        "name": "Vazquez Edwards",
+        "grades": [
+          5.6,
+          5,
+          0.9,
+          8.7
+        ]
+      },
+      {
+        "id": 484,
+        "name": "Ewing Brady",
+        "grades": [
+          8.3,
+          4.3,
+          9.8,
+          2.1
+        ]
+      },
+      {
+        "id": 485,
+        "name": "Melisa Hull",
+        "grades": [
+          4.5,
+          6.9,
+          6.9,
+          3.3
+        ]
+      },
+      {
+        "id": 486,
+        "name": "Karina Daniels",
+        "grades": [
+          5.7,
+          3.3,
+          1.1,
+          2.4
+        ]
+      },
+      {
+        "id": 487,
+        "name": "Maynard Estes",
+        "grades": [
+          6.3,
+          3.2,
+          8.3,
+          2.3
+        ]
+      },
+      {
+        "id": 488,
+        "name": "Casandra Crosby",
+        "grades": [
+          1.1,
+          1.2,
+          4.8,
+          1.8
+        ]
+      },
+      {
+        "id": 489,
+        "name": "Foreman Perkins",
+        "grades": [
+          2.8,
+          8.6,
+          6.9,
+          4.8
+        ]
+      },
+      {
+        "id": 490,
+        "name": "Phoebe Fuentes",
+        "grades": [
+          8.5,
+          6.5,
+          5.2,
+          1.6
+        ]
+      },
+      {
+        "id": 491,
+        "name": "Willis Buckner",
+        "grades": [
+          8.1,
+          4.6,
+          1.7,
+          4.6
+        ]
+      },
+      {
+        "id": 492,
+        "name": "Herring Mcintosh",
+        "grades": [
+          8.5,
+          4.6,
+          0.4,
+          3.9
+        ]
+      },
+      {
+        "id": 493,
+        "name": "Turner Ford",
+        "grades": [
+          8.2,
+          5.8,
+          1.4,
+          3.1
+        ]
+      },
+      {
+        "id": 494,
+        "name": "Jenny Norris",
+        "grades": [
+          1.3,
+          0.3,
+          1,
+          9.6
+        ]
+      },
+      {
+        "id": 495,
+        "name": "Colon King",
+        "grades": [
+          6.6,
+          8.3,
+          3.2,
+          4.9
+        ]
+      },
+      {
+        "id": 496,
+        "name": "Decker Santos",
+        "grades": [
+          5.7,
+          7.9,
+          1.2,
+          2.8
+        ]
+      },
+      {
+        "id": 497,
+        "name": "Tonia Ortiz",
+        "grades": [
+          4.5,
+          6.8,
+          1.3,
+          8.2
+        ]
+      },
+      {
+        "id": 498,
+        "name": "Calhoun Jacobs",
+        "grades": [
+          1.9,
+          2.6,
+          6.2,
+          0.7
+        ]
+      },
+      {
+        "id": 499,
+        "name": "Jocelyn Holcomb",
+        "grades": [
+          0.7,
+          9.4,
+          7.8,
+          8.4
+        ]
+      },
+      {
+        "id": 500,
+        "name": "Janelle Hampton",
+        "grades": [
+          6.5,
+          6.7,
+          4.1,
+          1
+        ]
+      }
+    ]
+  }

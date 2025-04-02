@@ -1,0 +1,13 @@
+  {
+    "name": "csv-maker",
+    "version": "1.0.0",
+    "description": "csv-maker, processa dados JSON de estudantes, além de calcular a média deles, e transforma eles em arquivos CSV.",
+    "main": "script.js",
+    "type": "module",
+    "scripts": {
+      "start": "node ./csv-maker/script.js"
+    },
+    "dependencies": {
+      "fs": "^0.0.1-security"
+    }
+  }
