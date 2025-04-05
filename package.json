@@ -1,13 +1,19 @@
-  {
-    "name": "csv-maker",
-    "version": "1.0.0",
-    "description": "csv-maker, processa dados JSON de estudantes, além de calcular a média deles, e transforma eles em arquivos CSV.",
-    "main": "script.js",
-    "type": "module",
-    "scripts": {
-      "start": "node ./csv-maker/script.js"
-    },
-    "dependencies": {
-      "fs": "^0.0.1-security"
-    }
+{
+  "name": "csv-creator",
+  "version": "2.0.0",
+  "description": "Sistema de geração de relatórios automatizados para empresas, processando dados financeiros, acadêmicos e comerciais em arquivos CSV otimizados.",
+  "main": "script.ts",
+  "scripts": {
+    "start": "ts-node ./src/script.ts",
+    "dev": "ts-node ./src/script.ts",
+    "students": "ts-node ./src/script.ts students",
+    "sales": "ts-node ./src/script.ts sales",
+    "finance": "ts-node ./src/script.ts finance"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
   }
+}

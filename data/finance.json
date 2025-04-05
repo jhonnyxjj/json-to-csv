@@ -1,0 +1,74 @@
+{
+    "transactions": [
+        {
+            "date": "2025-03-30",
+            "description": "Compra de insumos",
+            "category": "Materiais",
+            "value": 5000.00,
+            "paymentMethod": "Boleto"
+        },
+        {
+            "date": "2025-03-31",
+            "description": "Pagamento de fornecedores",
+            "category": "Serviços",
+            "value": 12000.00,
+            "paymentMethod": "Transferência"
+        },
+        {
+            "date": "2025-04-01",
+            "description": "Venda de produtos",
+            "category": "Receita",
+            "value": 18500.00,
+            "paymentMethod": "Cartão"
+        },
+        {
+            "date": "2025-04-02",
+            "description": "Aluguel da loja",
+            "category": "Despesas Fixas",
+            "value": 3200.00,
+            "paymentMethod": "Pix"
+        },
+        {
+            "date": "2025-04-02",
+            "description": "Compra de embalagens",
+            "category": "Materiais",
+            "value": 800.00,
+            "paymentMethod": "Cartão"
+        },
+        {
+            "date": "2025-04-03",
+            "description": "Serviço de marketing",
+            "category": "Publicidade",
+            "value": 1500.00,
+            "paymentMethod": "Transferência"
+        },
+        {
+            "date": "2025-04-03",
+            "description": "Receita de curso online",
+            "category": "Receita",
+            "value": 2500.00,
+            "paymentMethod": "Cartão"
+        },
+        {
+            "date": "2025-04-04",
+            "description": "Pagamento de funcionários",
+            "category": "RH",
+            "value": 9800.00,
+            "paymentMethod": "Transferência"
+        },
+        {
+            "date": "2025-04-04",
+            "description": "Compra de móveis",
+            "category": "Equipamentos",
+            "value": 4500.00,
+            "paymentMethod": "Boleto"
+        },
+        {
+            "date": "2025-04-05",
+            "description": "Venda em feira",
+            "category": "Receita",
+            "value": 3600.00,
+            "paymentMethod": "Dinheiro"
+        }
+    ]
+}
