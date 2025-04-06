@@ -71,7 +71,7 @@ depois de instalar o node, vá para instalação.
 ### Instalação
 📌 Passo 1. Clone o repositório ou faça o download dos arquivos.
 ```bash
-git clone repo
+git clone https://github.com/jhonnyxjj/json-to-csv.git
 ```
 📌 Passo 2. No diretório do projeto, instale as dependências usando o comando:
 ```
